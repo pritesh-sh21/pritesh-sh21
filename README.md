@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Project and ML<br><br>🌱 I’m currently learning Backend Development using NodeJs and DSA<br><br>👨‍💻 All of my projects are available at https://github.com/pritesh-sh21<br><br>📫 How to reach me mpritesh749@gmail.com
+🔭 I’m currently working on MERN Project and ML<br><br>🌱 I’m currently learning Backend Development using NodeJs <br><br>👨‍💻 All of my projects are available at https://github.com/pritesh-sh21<br><br>📫 How to reach me mpritesh749@gmail.com
 
 
 ## 🌐 Socials:
